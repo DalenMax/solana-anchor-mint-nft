@@ -1,25 +1,37 @@
 {
   "name": "DNU CERT",
-  "symbol": "DNU",
+  "symbol": "DNU-CERTIFICATION",
   "description": "Kobeni supremacy 🛐",
-  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtKOHBZnzQF1eAtmOIG-IEt3xfG33MiHaeN_nvtvbqkVviM8dE7zN_9kHAk6Z98iLak-M&usqp=CAU",
+  "image": "https://demo.fabbi-blockchain.com/certificate.jpeg",
   "animation_url": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
   "attributes": [
     {
+      "trait_type": "University",
+      "value": "Dai Nam University"
+    },
+    {
       "trait_type": "Department",
-      "value": "The Computer Science Department"
+      "value": "Biotecknology"
     },
     {
       "trait_type": "Type",
       "value": "Certificate"
     },
     {
-      "trait_type": "Student",
-      "value": "Student-id"
+      "trait_type": "Student ID",
+      "value": "BL01-HV01-01"
     },
     {
-      "trait_type": "GPA",
-      "value": "8.0"
+      "trait_type": "Student Name",
+      "value": "Dương Nam Trần"
+    },
+    {
+      "trait_type": "Completed At",
+      "value": "2024-12-03"
+    },
+    {
+      "trait_type": "Certificate ID",
+      "value": "2x2vqn"
     }
   ],
   "properties": {
