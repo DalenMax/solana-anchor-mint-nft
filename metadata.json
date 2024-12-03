@@ -2,7 +2,7 @@
   "name": "DNU CERT",
   "symbol": "DNU-CERTIFICATION",
   "description": "Kobeni supremacy 🛐",
-  "image": "https://demo.fabbi-blockchain.com/certificate.jpeg",
+  "image": "https://demo.fabbi-blockchain.com/certificate.png",
   "animation_url": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
   "attributes": [
     {
@@ -11,7 +11,7 @@
     },
     {
       "trait_type": "Department",
-      "value": "Biotecknology"
+      "value": "Fintech"
     },
     {
       "trait_type": "Type",
@@ -23,7 +23,7 @@
     },
     {
       "trait_type": "Student Name",
-      "value": "Dương Nam Trần"
+      "value": "Dương Nam Trường"
     },
     {
       "trait_type": "Completed At",
@@ -32,6 +32,10 @@
     {
       "trait_type": "Certificate ID",
       "value": "2x2vqn"
+    },
+    {
+      "trait_type": "Status",
+      "value": "Approved"
     }
   ],
   "properties": {
